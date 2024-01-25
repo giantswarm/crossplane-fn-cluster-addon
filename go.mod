@@ -1,0 +1,1 @@
+module github.com/giantswarm/crossplane-fn-template
